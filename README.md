@@ -9,4 +9,8 @@ The dataset is collected from Kaggle https://www.kaggle.com/datasnaek/chess
 # EDA 
 In the github the analysis file contains the exploratory analysis and some visualization to understand the data visually.
 
+# Models
+
+I have used 10 supervised machine learning models to evaluate the prediction and metric AUC score. 
+Among all the models CatBoost model perform better with 78% of AUC score 
 
